@@ -3,8 +3,8 @@ title: "Introduction to Computer Programming"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2018-spring-teaching-1
-venue: "University of Maiduguri,Computer Engineering Department"
-date: 2018-2019
+venue: "University of Maiduguri, Computer Engineering Department"
+date: 2018-09-01
 location: "Maiduguri, Nigeria"
 ---
 
