@@ -2,7 +2,7 @@
 title: "Object Oriented Programming"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2015-spring-teaching-6
+permalink: /teaching/2025-spring-teaching-6
 venue: "Euromed University of Fes, UEMF, Artificial Intelligence"
 date: 2025-09-01
 location: "Fes, Morocco"
