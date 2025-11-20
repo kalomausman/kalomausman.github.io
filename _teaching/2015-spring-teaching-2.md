@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Data Structure and Algorithms"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /teaching/2019-spring-teaching-1
+venue: "University of Maiduguri, Computer Engineering Department"
+date: 2019-09-01
+location: "Maiduguri, Nigeria"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This course introduced the students to the basic concept of computer programming using C. The students learn about variables, data types, conditional statements, loops, and functions etc.
 
 Heading 1
 ======
