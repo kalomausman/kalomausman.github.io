@@ -13,4 +13,8 @@ I am also actively engaged in research exploring modern AI techniques and their 
 
 NEWS
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. 
+* I am currently teaching Object-Oriented Programming to Pharmacy students at Euromed University of Fes (UEMF), Morocco, where I serve as a volunteer instructor.
+* I work as a developer, creating websites and providing related technical solutions.
+* I am open to freelance opportunities in Data Science, Research, Web Development, and Artificial Intelligence.
+* I welcome collaboration on research projects, academic initiatives, and AI-driven solutions.
+* I contributed to the development and writing of a USAID research grant proposal.
