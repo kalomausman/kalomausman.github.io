@@ -37,6 +37,7 @@ Skills
 * Research & Development
 * Computer Programming
   * Python
+  * Java
   * C/C++
 * Artificial Intelligence Techniques
 * Remote Sensing and Precision Agriculture
