@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-*2022 - 2024: Teaching Assistant
+*2022 - 2025: Teaching Assistant
   * Euromed University of Fes (UEMF)
   * Duties included: Teaching, Exams Invigilation etc.
   * Supervisors: Prof. Mhamed Zineddine and Prof. Ahmed El Hilai Alaoui
