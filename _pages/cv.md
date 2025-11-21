@@ -11,35 +11,35 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science (Artificial Intelligence Specialty), Euromed University of Fes (UEMF), 2025 (expected)
+* M.S.c in Software Engineering, Fırat University, 2016
+* B.S.c in Computer Engineering, Melikşah University, 2014
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+*2022 - 2024: Teaching Assistant
+  * Euromed University of Fes (UEMF)
+  * Duties included: Teaching, Exams Invigilation etc.
+  * Supervisors: Prof. Mhamed Zineddine and Prof. Ahmed El Hilai Alaoui
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+*2018 - 2022: Lecturer
+  * University of Maiduguri
+  * Duties included: Teaching, Exam Invigilation and Undergraduate Projects Supervision etc.
+  * Supervisor: Prof. Abdulkadir Hamidu Alkali
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+*2013-2014: Research Assistant
+  * Melikşah University, Türkiye
+  * Duties included: Tutorials and Managing lab sessions for programming courses.
+  * Supervisor: Prof. Kadir A. Peker
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Research & Development
+* Computer Programming
+  * Python
+  * C/C++
+* Artificial Intelligence Techniques
+* Remote Sensing and Precision Agriculture
 
 Publications
 ======
