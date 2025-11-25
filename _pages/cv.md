@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science (Artificial Intelligence Specialty), Euromed University of Fes (UEMF), 2025 (expected)
+* Ph.D in Computer Science (Artificial Intelligence Specialty), Euromed University of Fes (UEMF), 2026 (expected)
 * M.S.c in Software Engineering, Fırat University, 2016
 * B.S.c in Computer Engineering, Melikşah University, 2014
 
